@@ -1,4 +1,19 @@
 body{
-    background: blue;
-    
+    background-image: url("header.jpg");
+    text-indent: 20px;
+}
+h1{
+    color: black;
+    margin: 50px;
+    text-align: center;
+
+}
+h3{
+    color: gray;
+    margin: 20px;
+    text-align: center;
+}
+html{
+    text-anchor: end;
+    text-align: center;
 }
