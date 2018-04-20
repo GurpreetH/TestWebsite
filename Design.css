@@ -4,6 +4,22 @@ body{
     background-size: 2000px 125px;
     text-indent: 20px;
 }
+p{
+  font-size:1.4vw;
+  font-family: Ubuntu;
+  color: black;
+  width: 60%;
+  justify-content: center;
+  background-color:white;
+  margin-left:auto;
+  margin-right:auto; 
+  padding:16px;
+  border-style: solid;
+  border-radius: 0px;
+  border-width: 3px;
+  border-color:black;
+  box-shadow: 5px 10px #374356;
+  }
 .header {
   padding: 10px 16px;
   background: #555;
@@ -29,3 +45,114 @@ html{
     text-anchor: end;
     text-align: center;
 }
+
+p{
+  font-size:1.4vw;
+  font-family: Ubuntu;
+  color: black;
+  width: 60%;
+  justify-content: center;
+  background-color:white;
+  margin-left:auto;
+  margin-right:auto; 
+  padding:16px;
+  border-style: solid;
+  border-radius: 0px;
+  border-width: 3px;
+  border-color:black;
+  box-shadow: 5px 10px #374356;
+  }
+  
+  hr{
+  
+    height: 5px;
+    color: #D1E8E2;
+    background: white;
+    border-color: white;
+  }
+  
+  h1{
+  
+    font-family: Ubuntu;
+    margin: auto;
+    position:relative;
+    font-size: 40;
+    text-align: center;
+    justify-content: center;
+    background: white;
+    padding:5px;
+    margin-top:10px;
+    border-style: solid;
+  border-width: 3px;
+  border-color:black;
+  
+  }
+  
+  h1:hover{
+  
+    background-color: lightblue;
+  }
+  
+  h2:hover{
+  
+    background-color: lightblue;
+  }
+  
+  h2{
+  
+  position: relative;
+  border-style: solid;
+  border-width: 3px;
+  border-color:black;
+  background: white;
+  padding:5px;
+  }
+  
+  body {
+  background:
+  linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+  linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+  background-color:#708090;
+  background-size: 64px 128px;
+  background-attachment: fixed;
+  }
+  
+  
+  
+  nav li {
+  
+    font-family: Ubuntu;
+    float: left;
+      left:50%;
+    text-align: center;
+    display: inline;
+  }
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 50px;
+    margin:auto;
+  
+  }
+  
+  
+  ul {
+  
+    list-style: none;
+    display: inline-block;
+    margin: auto;
+    left: 50%;
+  }
+  
+  ul li {
+    float: left;
+    margin: 0 20px;
+  }
+  
+  .gopmadethis{
+  
+    text-align: center;
+  }
